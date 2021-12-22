@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jivesh
 - 👀 I’m interested in everything Software!
-- 🌱 I’m currently learning Software Engineering at General Assembly
+- 🌱 Currently Working on an E-Commerce REACT App.
 
 - 📫 jiveshbhatti@gmail.com
 
